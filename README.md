@@ -36,6 +36,13 @@ External
  - Mysql 5.6.11
  - Apache 2.3
  
+### Installation
+ - Copy dan ekstrak file pada directory apache anda
+ - jalankan service apache dan mysql anda
+ - Import file pmb.sql database yang terletak pada folder db
+ - Konfigurasi koneksi database anda pada file application/config/database.php
+ - coba jalankan dari browser untuk menguji sistem berjalan normal
+ 
 ### Team Developer
  - Arifianto
  - Arif Surya Putra
