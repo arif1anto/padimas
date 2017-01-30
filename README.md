@@ -39,8 +39,8 @@ External
 ### Installation
  - Copy dan ekstrak file pada directory apache anda
  - jalankan service apache dan mysql anda
- - Import file pmb.sql database yang terletak pada folder db
- - Konfigurasi koneksi database anda pada file application/config/database.php
+ - Import file pmb.sql database yang terletak pada folder [db](https://github.com/kuliahjogja/padimas/tree/branches/db)
+ - Konfigurasi koneksi database anda pada file [application/config/database.php](https://github.com/kuliahjogja/padimas/blob/branches/application/config/database.php)
  - coba jalankan dari browser untuk menguji sistem berjalan normal
  
 ### Team Developer
