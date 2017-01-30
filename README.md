@@ -20,9 +20,7 @@ PADIMAS merupakan sistem berbasis website yang berfungsi untuk membantu proses P
  - Ajax
  
 ### Libraries
-Library yang digunakan rata-rata merupakan library bawaan Codeigniter antara lain:
-
-Internal
+Library yang digunakan sebagian besar merupakan library bawaan Codeigniter antara lain:
  - Session
  - Encrypt
  
